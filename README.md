@@ -1,2 +1,19 @@
-# i-sport
-本学期的微信小程序期末设计，一款为喜爱运动健身人士所设计的APP。
+# testapi
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
